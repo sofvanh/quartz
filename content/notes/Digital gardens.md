@@ -3,9 +3,7 @@ title: "Digital gardens"
 date: 2022-07-28
 ---
 
-# Digital gardens
-
-I recently came across a bunch of websites doing something incredibly interesting: 
+I recently came across a bunch of websites doing something interesting: 
 People are sharing their personal notes (often Obsidian vaults), or a curated collection of them, publicly on the internet, on their own websites.
 Some describe these websites as "digital gardens". 
 There's a few ways this metaphor can work:
@@ -18,7 +16,7 @@ I've been having a wonderful time enjoying the notes of people:
 I'm learning about concepts and ideas that I've never before come across, and I'm finding incredibly specific and useful guides to all sorts of problems. 
 Further, as someone who's long been obsessed with gaining perspectives, exploring someone's digital garden feels so much like actually stepping into their brain that to me it's almost addictive.
 
-## My approach
+### My approach
 
 I've long been planning to start a blog, yet the idea is more intimidating than the idea of starting a digital garden. 
 The issue has something to do with how a blog is about showing off finished work, about proving something, while a digital garden is all about sharing the work-in-progress and learning in public - it's about giving, sharing, and nurturing, it's much more personal and private and accepting of mistakes and growth, while something like a blog or social media is more about showing, proving, gaining.
@@ -30,7 +28,7 @@ I'm happy to be exploring this option for self-expression in a way that will hel
 - Share my thoughts, ideas, learnings, art, and perspective with the world
 - Connect with people who share my interests and want to collaborate in creating a wonderful future
 
-## Resources
+### Resources
 
 List of the inspiring digital gardens I've found so far, in no particular order:
 - [Jacky Zhao's website](https://jzhao.xyz)

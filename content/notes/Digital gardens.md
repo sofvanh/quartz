@@ -1,6 +1,6 @@
 ---
 title: "Digital gardens"
-date: 2022-07-28
+date: "2022-08-01"
 ---
 
 I recently came across a bunch of websites doing something interesting: 
@@ -31,8 +31,9 @@ I'm happy to be exploring this option for self-expression in a way that will hel
 ### Resources
 
 List of the inspiring digital gardens I've found so far, in no particular order:
-- [Jacky Zhao's website](https://jzhao.xyz)
 - [Nicole van der Hoeven's public notes](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
+- [Maggie Appleton's tweeted list](https://twitter.com/Mappletons/status/1250532315459194880)
+- [Jacky Zhao's website](https://jzhao.xyz)
 - [Chloe Abrasada's digital garden](https://garden.chloeabrasada.online/)
 - [Bianca Aguilar's digital garden](https://garden.bianca.digital/)
 - [Joel Hooks' digital garden](https://joelhooks.com/digital-garden)

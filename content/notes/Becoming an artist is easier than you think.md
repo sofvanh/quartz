@@ -35,10 +35,10 @@ As I've gotten interested in other mediums, I've tried different approaches.
 Many times I've looked for books or online courses to get me "properly good" at something.
 What I've found is that if I can finish the program in one night, I'll get it done; Otherwise I'll lose motivation and momentum, feel bad, and give up on the medium completely for some time.
 (I had this happen several times with drawing.
-I find programs like [Draw a Box](drawabox.com) completely antithetical to how one should learn art.)
+I find programs like [Draw a Box](https://drawabox.com) completely antithetical to how one should learn art.)
 
 You can see this go even worse with music, particularly with children who learn primarily with a teacher.
-I have countless friends who learned to play technically impressive pieces as children, and now as adults, they despise the very instrument they spent all that time and effort on.
+I have plenty of friends who learned to play technically impressive pieces as children, and now as adults, they despise the very instrument they spent all that time and effort on.
 The skill is now giving them zero benefits, and they might even be left with mild trauma.
 
 Learning of art, when it's programmed, is **not fun**.

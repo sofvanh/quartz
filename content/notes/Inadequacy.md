@@ -2,8 +2,7 @@
 title: "Inadequacy"
 date: "2022-08-03"
 tags:
-- subjective
-- emotions
+- emotion
 ---
 
 "I am completely inept and inadequate at all the things I'm trying to do."

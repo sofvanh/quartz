@@ -2,12 +2,12 @@
 title: "Becoming an artist is easier than you think"
 date: "2022-08-20"
 tags:
-- wip
-- art
+- seed
 - learning
+- creativity
 - essay
 ---
-*Work-in-progress: In review.*
+*🌱 Seed. Early version of an essay.*
 
 My time is split between hard sciences and art of all kinds.
 I'm a computer science major, software engineer, tech lead, whatever - and in my spare time I sing, play multiple instruments, draw and paint and do calligraphy, act in improv groups and musicals, dance in blues and fusion parties, write prose and poetry, and design knits and interiors.

@@ -24,10 +24,11 @@ Thank you for visiting; I appreciate you. ✨
 If you'd like, you can [preorder my newsletter](https://forms.gle/3hrdwCcSb6eMSG5AA).
 I may or may not actually start sending things.
 
-## Things to explore
+#### Collections
 - [How-to:s for life](/tags/how-to)
 - [Explorations of emotions](/tags/emotion/)
 - [Essays](/tags/essay/)
+- [Book notes](/tags/book/)
 
 #### Garden vocabulary
 - [🌱 Seeds](/tags/seed) are thoughts that I've only recently started writing about

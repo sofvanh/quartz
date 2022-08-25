@@ -2,7 +2,7 @@
 title: "Why 'aligning' AI matters"
 date: "2022-08-14"
 tags:
-- wip
+- sapling
 - learning
 - alignment
 - artificial intelligence

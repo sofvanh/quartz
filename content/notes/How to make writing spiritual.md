@@ -8,6 +8,8 @@ tags:
 ---
 *🌱 Seed. Work-in-progress note where I try to get closer to my goal of experiencing writing and note-taking as part of my spiritual practice.*
 
+**Warning: Very rambly.**
+
 My goal is for my entire life to be based on spirituality, and for each moment to be a reflection of that. I tend to spend a lot of time writing, and so it makes sense to be deliberate about turning the act of writing into something spiritual.
 
 - Can I write for other people, or for my public notes, and have it be spiritual? How much can I allow other people to pervade my practice? Or should I make engaging with people, as with the universe as a whole, a part of my practice? (The answer is probably yes. What will that look like?)

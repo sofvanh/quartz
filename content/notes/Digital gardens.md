@@ -39,4 +39,7 @@ List of the inspiring digital gardens I've found so far, in no particular order:
 - [Joel Hooks' digital garden](https://joelhooks.com/digital-garden)
 - More in [showcased digital gardens on Quartz](https://quartz.jzhao.xyz/notes/showcase/)
 
+Other blogs I like:
+- [Autotranslucence](https://autotranslucence.wordpress.com/)
+
 If you want to start your own digital garden, and are already using Obsidian (or have Markdown files ready to go) you should check out [Quartz](https://quartz.jzhao.xyz).
